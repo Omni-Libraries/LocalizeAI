@@ -18,4 +18,5 @@ localize.generate(prompt="Summarize this", output_format="json")
 ```
 --- 
 
-Join our community: Contribute | Issues
+Join our community:  
+[Contribute (Fork this repo)](https://github.com/Omni-Libraries/LocalizeAI/fork) | [Report Issues](https://github.com/Omni-Libraries/LocalizeAI/issues)
